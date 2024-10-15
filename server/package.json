@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "GPL-2.0"
+  "license": "GPL-2.0",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
 }
